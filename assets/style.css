@@ -19,23 +19,23 @@ body {
 }
 
 .display-4 {
-    font-size: 150px;
+    font-size: 6.5rem;
     font-family: 'Playfair Display SC', serif;
 }
 
 .lead {
-    font-size: 50px;
+    font-size: 2.5rem;
     font-family: 'Playfair Display SC', serif;
 }
 
 hr {
     border-top: 10px solid white;
-    width: 60%;
+    width: 23rem;
 }
 
 
 p {
-    font-size: 20px;
+    font-size: 2.5rem;
 }
 
 div#images {
@@ -88,7 +88,7 @@ div.jumbotron.jumbotron-fluid.bg-dark.text-white {
             /* Large Devices, Wide Screens */
             @media only screen and (max-width : 1440px) {
                 h3.mb-4 {
-                    margin-right: 20px;
+                    margin-right: 2.5rem;
                 }
         
             }
@@ -101,7 +101,7 @@ div.jumbotron.jumbotron-fluid.bg-dark.text-white {
                 }
                 
                 h3.mb-4 {
-                    margin-left: 30px;
+                    margin-left: 2.5rem;
                 }
 
             }
@@ -113,7 +113,7 @@ div.jumbotron.jumbotron-fluid.bg-dark.text-white {
                 }
 
                 h3.mb-4 {
-                    margin-left: 10px;
+                    margin-left: 2.5rem;
                 }
             }
         
@@ -125,7 +125,7 @@ div.jumbotron.jumbotron-fluid.bg-dark.text-white {
                 }
 
                 h3.mb-4 {
-                    margin-left: 10px;
+                    margin-left: 2.5rem;
                 }
 
                 img.mb-4.img-fluid.rounded-circle {
@@ -156,7 +156,7 @@ div.jumbotron.jumbotron-fluid.bg-dark.text-white {
                 }
 
                 h3.mb-4 {
-                    margin-left: 10px;
+                    margin-left: 2.5rem;
                 }
 
                 img.mb-4.img-fluid.rounded-circle {
