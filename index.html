@@ -160,7 +160,12 @@
                     }, 1000 )
                 });
             
-            
+                // collapse menu
+                $(document).on('click','.navbar-collapse.show',function(e) {
+                $(this).collapse('hide');
+                });
+
+
             // Active Link Switching
             $(window).scroll(function() {
                 var scrollbarLocation = $(this).scrollTop();
