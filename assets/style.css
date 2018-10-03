@@ -117,7 +117,7 @@ div.jumbotron.jumbotron-fluid.bg-dark.text-white {
             /* Mobile Large.. Testing */
             @media only screen and (max-width : 425px) {
                 h1.display-4 {
-                    font-size: 6.5rem; 
+                    font-size: 5.5rem; 
                 }
 
                 h3.mb-4 {
@@ -134,7 +134,7 @@ div.jumbotron.jumbotron-fluid.bg-dark.text-white {
             @media only screen and (max-width : 375px) {
                 
                 h1.display-4 {
-                    font-size: 6.5rem;
+                    font-size: 5.5rem;
                 }
 
                 h3.mb-4 {
@@ -169,7 +169,7 @@ div.jumbotron.jumbotron-fluid.bg-dark.text-white {
                 }
     
                 h1.display-4 {
-                    font-size: 6.5rem;
+                    font-size: 5.5rem;
                 }
 
                 h3.mb-4 {
