@@ -25,7 +25,14 @@ body {
 
 .lead {
     font-size: 50px;
+    font-family: 'Playfair Display SC', serif;
 }
+
+hr {
+    border-top: 10px solid white;
+    width: 60%;
+}
+
 
 p {
     font-size: 20px;
