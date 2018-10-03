@@ -52,7 +52,7 @@ div.jumbotron.jumbotron-fluid.bg-dark.text-white {
     /*==========  Mobile First Method  ==========*/
 
     /* Custom, iPhone Retina */ 
-    @media only screen and (min-width : 320px) {
+            @media only screen and (min-width : 320px) {
     
         
             /* Extra Small Devices, Phones */ 
@@ -101,7 +101,7 @@ div.jumbotron.jumbotron-fluid.bg-dark.text-white {
             /* Mobile Large.. Testing */
             @media only screen and (max-width : 425px) {
                 h1.display-4 {
-                    font-size: 1.5rem; 
+                    font-size: 6.5rem; 
                 }
 
                 h3.mb-4 {
