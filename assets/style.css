@@ -90,6 +90,10 @@ div.jumbotron.jumbotron-fluid.bg-dark.text-white {
                 h3.mb-4 {
                     margin-right: 2.5rem;
                 }
+
+                hr {
+                    width: 23rem;
+                }
         
             }
         
@@ -104,6 +108,10 @@ div.jumbotron.jumbotron-fluid.bg-dark.text-white {
                     margin-left: 2.5rem;
                 }
 
+                hr {
+                    width: 23rem;
+                }
+
             }
         
             /* Mobile Large.. Testing */
@@ -115,6 +123,11 @@ div.jumbotron.jumbotron-fluid.bg-dark.text-white {
                 h3.mb-4 {
                     margin-left: 2.5rem;
                 }
+
+                hr {
+                    width: 23rem;
+                }
+
             }
         
             /* Mobile Medium */ 
@@ -136,6 +149,10 @@ div.jumbotron.jumbotron-fluid.bg-dark.text-white {
                     margin-right: 35px;
                     margin-left: 35px;
                     display: block;
+                }
+
+                hr {
+                    width: 23rem;
                 }
 
             }
@@ -162,7 +179,13 @@ div.jumbotron.jumbotron-fluid.bg-dark.text-white {
                 img.mb-4.img-fluid.rounded-circle {
                     margin-left: 40px;
                 }
+
+                hr {
+                    width: 23rem;
+                }
             
                 }
+
+    
         
             }
