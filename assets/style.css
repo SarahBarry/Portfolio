@@ -48,13 +48,12 @@ h1 {
 h3 {
     font-family: 'Nunito', sans-serif;
     
-    
 }
+
 
 div#images {
     margin: 100px;
 }
-
 
 /* Jumbotron */
 div.jumbotron.jumbotron-fluid.bg-dark.text-white {
